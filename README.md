@@ -13,6 +13,3 @@ Skrypt pozwalający wyeksportować do pliku wszystkie ulubione treści (te, któ
 ## Licencja
 
 Skrypt jest na licencji MIT - czyli praktycznie 'róbta co chceta'
-=======
-# strims_ulubione
-Skrypt pozwalający wyeksportować wszystkie ulubione treści
