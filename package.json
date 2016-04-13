@@ -1,0 +1,15 @@
+{
+  "name": "strims_lubiane",
+  "version": "0.0.1",
+  "description": "Zachowuje lubiane (UVotowane) tresci",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wykopki",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.71.0"
+  }
+}
